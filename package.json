@@ -16,7 +16,7 @@
     "url": "https://github.com/apigee-127/swagger-express.git"
   },
   "dependencies": {
-    "swagger-node-runner": "git@github.com:multivacplatform/swagger-node-runner.git"
+    "swagger-node-runner": "git://github.com/dragos-cojocari-ibm/swagger-node-runner.git"
   },
   "devDependencies": {
     "lodash": "4.17.15",
